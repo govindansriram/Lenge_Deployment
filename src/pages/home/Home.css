@@ -1,0 +1,101 @@
+.home {
+  text-align: center;
+}
+
+.home-header {
+  background-color: #d1edf2;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.home-image {
+  width: 1000px;
+  height: 300px;
+  margin-top: 40px;
+}
+
+.banner-text {
+  background-color: #47bbcf;
+  height: 150px;
+  opacity: 0.8;
+  width: 100%;
+}
+
+.banner-text h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  margin-top: 10px;
+}
+
+.banner-text p {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  font: Comic Sans;
+  padding: 25px 50px 75px;
+  line-height: 100%;
+}
+
+.daily-challenge-box {
+  width: 80%;
+  height: auto;
+  background-color: #dcd0ff;
+  margin: 30px;
+  border-radius: 5px;
+}
+
+.daily-challenge-box h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.strength-workouts {
+  font-size: 1.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: white;
+}
+
+.sworkouts-button {
+  background-color: #d5a6e6 !important;
+  border-color: #dcd0ff !important;
+  margin-bottom: 10px;
+  margin-right: 200px;
+  float: right;
+}
+
+.cardio-workouts {
+  font-size: 1.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: white;
+}
+
+.cworkouts-button {
+  background-color: #d5a6e6 !important;
+  border-color: #dcd0ff !important;
+  margin-bottom: 10px;
+  margin-left: 200px;
+  float: left;
+}
+
+.homepage-pic {
+  width: 400px;
+  padding: 8%;
+  border-radius: 10px;
+}
+
+.pic-container {
+  background-color: #99ccff;
+  border-radius: 8px;
+  margin-bottom: 3%;
+  width: 100%;
+}
+
+.pic-row {
+  width: 100%;
+}

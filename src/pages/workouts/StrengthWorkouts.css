@@ -1,0 +1,28 @@
+.workouts {
+  text-align: center;
+}
+
+.workouts-header {
+  background-color: #d1edf2;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.strength-image {
+  width: 1300px;
+  height: 300px;
+  margin-top: 20px;
+}
+
+.difficulty-label {
+  margin-top: 20px;
+  color: #0c71e0;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 2.2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
